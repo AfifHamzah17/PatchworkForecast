@@ -1,4 +1,3 @@
-```markdown
 # 📦 Sistem AI Forecasting & Optimasi Produksi UMKM Patchwork
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -263,4 +262,3 @@ Sistem ini berhasil mendemonstrasikan bagaimana teknologi AI canggih (LSTM) dapa
 ---
 
 *Dibuat dengan ❤️ untuk kemajuan UMKM Indonesia.*
-```
