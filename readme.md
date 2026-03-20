@@ -1,7 +1,3 @@
-Tentu, ini adalah dokumen **`README.md`** yang sangat komprehensif, teknis, dan *beginner-friendly*. Dokumen ini dirancang untuk memenuhi permintaan Anda: mencakup seluruh perjalanan proyek (Epic 1 hingga Epic 5), membahas arsitektur, tantangan teknis, alasan pemilihan library, hingga troubleshooting.
-
-Panjang dokumen ini dirancang ekstensif untuk memberikan dokumentasi setingkat proyek profesional.
-
 ```markdown
 # 📦 Sistem AI Forecasting & Optimasi Produksi UMKM Patchwork
 
