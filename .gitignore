@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# IDE-specific files (e.g., VS Code, IntelliJ)
+.idea/
+.vscode/
+*.iws
+*.suo
+*.user
+
+# Operating system files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Data or logs (optional, depending on project needs)
+.env # for environment variables and sensitive information
+logs/
+*.log
